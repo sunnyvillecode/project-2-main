@@ -14,8 +14,8 @@ body {
     align-items: center;
     text-align: center;
     padding: 50px 20px;
-    background: color(srgb red green blue)
-    color: white;
+    background: color(srgb red green blue);
+    color: aqua;
     min-height: 50vh;
 }
 .hero-content {
@@ -63,6 +63,4 @@ body {
 .feature h3 {
     margin-bottom: 10px;
     font-size: 1.5rem;
-}
-
 }
