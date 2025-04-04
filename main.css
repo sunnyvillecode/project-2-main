@@ -30,7 +30,7 @@ body {
     font-size: 1.2em;
     margin: 10px 0;
 }
-.hero button {
+.button {
     background-color: #ff6600;
     display: inline-block;
     text-decoration: none;
